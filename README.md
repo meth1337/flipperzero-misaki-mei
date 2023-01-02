@@ -15,3 +15,8 @@ Original GIF               |  Flipper screen implementation
 6. Go to `/SD Card/dolphin` directory
 7. Drag & drop the folder from step 3
 8. Reboot your flipper and you're done!
+
+https://user-images.githubusercontent.com/77743895/210234805-97f16c9d-a32d-4091-bab0-8f27acc61362.mp4
+
+(sorry i have tremor)
+
