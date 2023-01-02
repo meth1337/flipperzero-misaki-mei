@@ -1,9 +1,9 @@
 # flipperzero-misaki-mei
 FlipperZero animations replacement with Misaki Mei
 
-Original GIF               |  Flipper screen implementation
-:-------------------------:|:-------------------------:
-![og](img/mm.gif)          |  <img src = "img/fmm.gif" width="500" height="281"/>
+Original GIF                                                 |  Flipper screen implementation
+:-----------------------------------------------------------:|:---------------------------------------------------:
+<img src = "img/mm.gif" width="500" height="281"/>          |  <img src = "img/fmm.gif" width="500" height="281"/>
 
 # Animations
 ## Usage 
