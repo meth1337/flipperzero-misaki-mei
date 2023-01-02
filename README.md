@@ -13,7 +13,7 @@ Original GIF               |  Flipper screen implementation
 4. Run qFLipper & plug your flipper to your PC
 5. Go to file manager <br><img src = "img/ss1.png" width="500" height="281"/>
 6. Go to `/SD Card/dolphin` directory
-7. Drag & drop the folder from step 3
+7. Drag & drop the `misakimei` and  `manifest.txt` from folder done in step 3
 8. Reboot your flipper and you're done!
 
 https://user-images.githubusercontent.com/77743895/210234805-97f16c9d-a32d-4091-bab0-8f27acc61362.mp4
