@@ -1,7 +1,9 @@
 # flipperzero-misaki-mei
 FlipperZero animations and passport photo replacement with Misaki Mei
 
-![og](img/mm.gif) <img src = "img/fmm.gif" width="500" height="281"/>
+Original GIF               |  Flipper screen implementation
+:-------------------------:|:-------------------------:
+![og](img/mm.gif)          |  <img src = "img/fmm.gif" width="500" height="281"/>
 
 # Animations
 ## Usage 
