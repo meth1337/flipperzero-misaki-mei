@@ -11,7 +11,7 @@ Original GIF                                                 |  Flipper screen i
 2. Download the [qFlipper](https://flipperzero.one/update) if you don't have it
 3. Unzip `misaki.zip` into separate folder
 4. Run qFlipper & plug your flipper to your PC
-5. Go to file manager <br><img src = "img/ss1.png" width="500" height="281"/>
+5. Go to file manager <br><img src = "img/ss1.png" width="802" height="466"/>
 6. Go to `/SD Card/dolphin` directory
 7. Drag & drop the `misakimei` and  `manifest.txt` from folder done in step 3
 8. Reboot your flipper and you're done!
