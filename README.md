@@ -1,2 +1,2 @@
 # flipperzero-misaki-mei
-FlipperZero animations and passport phote replacement with Misaki Mei
+FlipperZero animations and passport photo replacement with Misaki Mei
